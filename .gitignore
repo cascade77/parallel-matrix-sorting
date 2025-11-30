@@ -1,0 +1,19 @@
+```
+# Binaries
+*/bin/seq
+*/bin/omp
+*/bin/thread*
+*/bin/mpi
+*/bin/*_sort
+
+# Test data
+*/data/*.txt
+
+# Results
+results/
+
+# Backup
+*.backup
+*~
+.DS_Store
+```
